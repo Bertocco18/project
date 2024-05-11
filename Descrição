@@ -10,3 +10,10 @@ O próximo passo será aprimorar o código existente, corrigindo erros e impleme
 Com o código mais robusto, será possível dar início ao desenvolvimento da interface gráfica do aplicativo, finalizando a criação do protótipo.
 Acredito que este projeto tem um grande potencial para auxiliar na conscientização ambiental e promover a prática da reciclagem.
 Apesar dos desafios, estou confiante de que com dedicação, este aplicativo poderá se tornar uma ferramenta útil para todos que desejam contribuir para um futuro mais sustentável.
+
+Resumo do aplicativo:
+Já se perguntou se aquela embalagem pode ou não ser reciclada?Nosso aplicativo te mostra isso na hora! Como funciona? Ao mandar a foto para o aplicativo uma IA(Neste caso a API do google utilizada no Gemini) vai entender qual o material e então te falar se este material pode ou não ser reciclado. Além disso nas informações sobre o conteúdo será acrescentado o tempo que este material demoraria para se desfazer na natureza.  O Aplicativo surgiu com uma necessidade, pois muitos não sabem quais materiais podem ou não ser reciclados e qual deve ser a destinação certa dos mesmos.
+Com o aplicativo, reciclar fica fácil e você contribui para um futuro mais verde.
+Além disso podemos acrescentar no aplicativo futuramente a geolocalização de pontos de coleta ou até mesmo avisar a onde pode se passar para coletar os resíduos, tornando por exemplo o trabalho de ONG’s e cooperativas mais eficaz e poupando tempo. Para tornar a reciclagem ainda mais divertida, vamos implementar um sistema de gamificação com recompensas e desafios.
+Outro detalhe interessante a ser acrescentado são dicas de como reciclar o material em casa, como por exemplo transformar embalagens em vasos de planta, permitindo que crianças e adultos abusem de sua criatividade, com até mesmo um espaço para mostrarem as suas obras de arte!
+Podemos também acrescentar junto das informações a quantidade que aquele material é reciclada e gerada por ano, como uma espécie de dados e curiosidades relevantes a respeito. 
