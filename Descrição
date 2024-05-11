@@ -1,0 +1,12 @@
+# O objetivo inicial deste projeto era desenvolver um aplicativo móvel capaz de identificar materiais recicláveis e não recicláveis.
+Sendo meu primeiro contato com linguagens de programação, como Python, me deparei com diversos desafios.
+Inicialmente, tentei criar um layout para o aplicativo utilizando o Android Studio, mas logo no início me deparei com dificuldades.
+Considerando a falta de tempo e minhas limitações em conhecimento e experiência na área, decidi focar na configuração básica do código, com o intuito de criar uma base para o futuro desenvolvimento do aplicativo.
+Apesar dos desafios, consegui criar um resumo com as ideias principais do aplicativo, que você encontra ao final desta descrição.
+O código desenvolvido, ainda em fase inicial e com poucas alterações, apresenta algumas limitações.
+Em alguns casos, dependendo da imagem utilizada, o algoritmo pode apresentar erros.
+Para aprimorar o aplicativo, será necessário realizar ajustes e calibrar o código para torná-lo mais "inteligente" e robusto.
+O próximo passo será aprimorar o código existente, corrigindo erros e implementando novas funcionalidades.
+Com o código mais robusto, será possível dar início ao desenvolvimento da interface gráfica do aplicativo, finalizando a criação do protótipo.
+Acredito que este projeto tem um grande potencial para auxiliar na conscientização ambiental e promover a prática da reciclagem.
+Apesar dos desafios, estou confiante de que com dedicação, este aplicativo poderá se tornar uma ferramenta útil para todos que desejam contribuir para um futuro mais sustentável.
